@@ -1,7 +1,7 @@
 # 🔌 Smart-USB-Hub 
 > Because I wanted a hub that actually looks cool and doesn't break.
 
-So, I got tired of those cheap plastic USB hubs that die after a week. I decided to just make my own in KiCad. It’s got a mix of ports because, let’s be real, we’re all living in that annoying "half-USB-A, half-USB-C" era right now.
+So, I got tired of those cheap plastic USB hubs that die after a week. I decided to just make my own in KiCad. It’s got a mix of ports because, let’s be real, we’re all living in that annoying "half-USB-A, half-USB-C" era right now. 
 
 ## **🛠️ The Specs**
 **4 Ports Total:** Perfectly balanced, as all things should be.
@@ -21,6 +21,8 @@ So, I got tired of those cheap plastic USB hubs that die after a week. I decided
 <img width="1170" height="618" alt="PCB Render Back View (KiCad)" src="https://github.com/user-attachments/assets/7eb67205-7dda-4ca3-ab33-cd16f316e3cf" />
 
 > will add blender renders when I have finished my other project
+
+I also like bare PCBs so I can admire them when I use them. I hate 3D designing cases which hides the beauty of the PCB 😭. But if anybody makes a case give a pull request i'll mostly accept and merge it with the main
 
 ## **📁 What’s in here?**
 **/PCB:** The actual board layout. I tried to keep it clean so it's easy to solder.
