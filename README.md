@@ -41,9 +41,9 @@ Solder it: Get your iron hot, put on some music, and try not to bridge the tiny 
 Plug it in: If it doesn't smoke, you did it!
 
 ## BOM Base
-> The xlsx is alos in the root directory
+> The xlsx is also in the root directory
 
-If you're building this yourself, here is what you need to grab. I got most of my small parts from [duino.lk](https://www.duino.lk). WHich is a local-only for Sri Lanka. These components are THT which are easy to solder by yourself :D. Other components were ordered w/ PCBA.
+If you're building this yourself, here is what you need to grab. I got my small parts from [duino.lk](https://www.duino.lk). WHich is a local-only for Sri Lanka. These components are THT which are easy to solder by yourself :D. Other components were ordered w/ PCBA.
 
 | Product Name | Quantity | Source Link | Price (USD) |
 | :--- | :---: | :--- | :--- |
