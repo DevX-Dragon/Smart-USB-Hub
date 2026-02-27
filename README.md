@@ -47,10 +47,10 @@ If you're building this yourself, here is what you need to grab. I got my small 
 
 | Product Name | Quantity | Source Link | Price (USD) |
 | :--- | :---: | :--- | :--- |
-| 220uF 16v Aluminum Electrolytic Capacitor | 8 | [duino.lk](https://www.duino.lk) | $0.40 |
-| 10uF 25v Aluminum Electrolytic Capacitor | 8 | [duino.lk](https://www.duino.lk) | $0.25 |
-| 104PF 0.1UF Ceramic Capacitor Disc | 20 | [duino.lk](https://www.duino.lk) | $0.20 |
-| 1UF 50V Aluminum Electrolytic Capacitor | 4 | [duino.lk](https://www.duino.lk) | $0.15 |
+| 220uF 16v Aluminum Electrolytic Capacitor | 8 | [duino.lk](https://www.duino.lk/product/220uf-16v-aluminum-electrolytic-capacitor/) | $0.40 |
+| 10uF 25v Aluminum Electrolytic Capacitor | 8 | [duino.lk](https://www.duino.lk/product/10uf-25v-aluminum-electrolytic-capacitor/) | $0.25 |
+| 104PF 0.1UF Ceramic Capacitor Disc | 20 | [duino.lk](https://www.duino.lk/product/104pf-0-1uf-ceramic-capacitor-disc/) | $0.20 |
+| 1UF 50V Aluminum Electrolytic Capacitor | 4 | [duino.lk](https://www.duino.lk/product/1uf-50v-aluminum-electrolytic-capacitor/) | $0.15 |
 | PCB (PCB + PCBA + SHIPPING) | 5 | JLC PCB | $78.00 |
 | **Shipping (for duino.lk)** | - | - | $2.00 |
 | **Exchange Tax?** | - | - | $5.00 |
