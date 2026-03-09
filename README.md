@@ -1,7 +1,7 @@
 #  Smart-USB-Hub 
 > Because I wanted a hub that actually looks cool and doesn't break.
 
-So, I got tired of those cheap plastic USB hubs that die after a week. I decided to just make my own in KiCad. It’s got a mix of ports because, let’s be real, we’re all living in that annoying "half-USB-A, half-USB-C" era right now. 
+So, I got tired of those cheap USB hubs that explode after a week lol. I decided to just make my own in KiCad. It’s got a mix of ports because, we’re all living in that annoying "half-USB-A, half-USB-C" era right now. 
 
 ## ** The Specs**
 **4 Ports Total:** Perfectly balanced, as all things should be.
@@ -43,7 +43,7 @@ Plug it in: If it doesn't smoke, you did it!
 ## BOM Base
 > The xlsx is also in the root directory
 
-If you're building this yourself, here is what you need to grab. I got my small parts from [duino.lk](https://www.duino.lk). WHich is a local-only for Sri Lanka. These components are THT which are easy to solder by yourself :D. Other components were ordered w/ PCBA.
+If you're building this yourself, here is what you need to buy. I got my small parts from [duino.lk](https://www.duino.lk). Which is a local-only for Sri Lanka. These components are THT which are easy to solder by yourself :D. Other components were ordered w/ PCBA.
 
 | Product Name | Quantity | Source Link | Price (USD) |
 | :--- | :---: | :--- | :--- |
