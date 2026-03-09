@@ -1,9 +1,9 @@
-# 🔌 Smart-USB-Hub 
+#  Smart-USB-Hub 
 > Because I wanted a hub that actually looks cool and doesn't break.
 
 So, I got tired of those cheap plastic USB hubs that die after a week. I decided to just make my own in KiCad. It’s got a mix of ports because, let’s be real, we’re all living in that annoying "half-USB-A, half-USB-C" era right now. 
 
-## **🛠️ The Specs**
+## ** The Specs**
 **4 Ports Total:** Perfectly balanced, as all things should be.
 
 **2x USB-A:** For your mouse, keyboard, or that random flash drive you found.
@@ -24,14 +24,14 @@ So, I got tired of those cheap plastic USB hubs that die after a week. I decided
 
 I also like bare PCBs so I can admire them when I use them. I hate 3D designing cases which hides the beauty of the PCB 😭. But if anybody makes a case give a pull request i'll mostly accept and merge it with the main
 
-## **📁 What’s in here?**
+## ** What’s in here?**
 **/PCB:** The actual board layout. I tried to keep it clean so it's easy to solder.
 
 **/Schematic:** The "brain" map. Check it out if you want to see how the power flows.
 
 **/production:** Necassary files to order your own PCB!
 
-## **⚡ How to make one**
+## ** How to make one**
 Order the Boards: Grab the Gerber files and send them to JLCPCB or PCBWay (or wherever you get your fix).
 
 Buy the Parts: Check the BOM (Bill of Materials). Don't cheap out on the capacitors!
@@ -56,5 +56,5 @@ If you're building this yourself, here is what you need to grab. I got my small 
 | **Exchange Tax?** | - | - | $5.00 |
 | **Total** | | | **$86.00** |
 
-## **🛑 Disclaimer**
+## ** Disclaimer**
 If you solder something backwards and it smells like burning plastic... that's on you, bro. Double-check your polarity!
